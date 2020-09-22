@@ -1,0 +1,59 @@
+/* index.html */
+
+.center {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    --flex-flow: row wrap;
+    align-items: center;
+}
+
+.p-20 {
+    padding: 30px;
+}
+
+.br-50 img{
+    border-radius: 35%;
+}
+
+.mg-4 {
+    margin: 4vw;
+}
+
+.mb-50 {
+    margin-bottom: 50px;
+}
+
+.container a img{
+    padding: 10px;
+    height: 20px;
+    width: 20px;
+}
+
+
+#rodape {
+    text-align: center;
+    margin: 1px;
+    padding: 5px;
+}
+
+#menu li {
+    display: inline;
+    
+}
+
+#menu li a {
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+    font-size: 20px;
+}
+
+#menu li a:hover {
+    color: darkmagenta;
+}
+
+/* contato */
