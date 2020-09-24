@@ -2,6 +2,7 @@ let nome = document.getElementById('nome')
 let email = document.querySelector('#email')
 let assunto = document.querySelector('#assunto')
 let mapa = document.getElementById('mapa')
+let foo;
 
 let nomeOk = false
 let emailOk = false
